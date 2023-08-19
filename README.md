@@ -7,3 +7,5 @@ This repository is a collection of my solutions to the kata.
 ### Codewars Kata - Training Manual
 
 ![Alt text](image.png)
+
+font: Codewars
