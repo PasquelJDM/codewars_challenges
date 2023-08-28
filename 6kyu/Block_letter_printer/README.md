@@ -28,3 +28,7 @@ As most of the characters can be printed in many different ways (think of Q, F o
 ### TAGS:
 
 Strings, ASCII art, algorithms
+
+### IMPORTANT:
+
+This solution does not pass the platform's test suite because the spaces distribution, but the problem was resolved.
